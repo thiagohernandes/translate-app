@@ -1,0 +1,13 @@
+{
+  "saudacoesTittle": "Saudações",
+  "titulo": "Esse título está em pt-BR",
+  "intro": "Olá mundo!",
+  "usuario": "Usuário",
+  "mensagem": "Mensagem",
+  "msg": "Essa mensagem em português é legal!",
+  "saudacoes": {
+    "bomdia": "Bom dia",
+    "boatarde": "Boa tarde",
+    "boanoite": "Boa noite"
+}
+}

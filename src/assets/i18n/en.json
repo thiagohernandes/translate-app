@@ -1,0 +1,13 @@
+{
+  "saudacoesTittle": "Greetings",
+  "titulo": "This tittle is in american english",
+  "intro": "Hello world!",
+  "usuario": "User",
+  "mensagem": "Message",
+  "msg": "This english message is wonderful!",
+  "saudacoes": {
+      "bomdia": "Good morning",
+      "boatarde": "Good afternoon",
+      "boanoite": "Good evening"
+  }
+}

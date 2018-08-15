@@ -1,0 +1,15 @@
+<div style="text-align:center">
+  <h1>
+    {{ tituloApp }}
+  </h1>
+  <h3>{{'saudacoesTittle' | translate}}</h3>
+  <div>{{'saudacoes.bomdia' | translate}}</div><br/>
+  <div>{{'saudacoes.boatarde' | translate}}</div><br/>
+  <div>{{'saudacoes.boanoite' | translate}}</div><br/>
+  <div> {{ 'intro' | translate }} - {{'titulo' | translate }}</div><br/>
+  <div translate>usuario</div><br/>
+  <button translate (click)="showMensagem('msg')">mensagem</button>
+  <hr>
+  <button (click)="switchLanguage('en')">en</button>
+  <button (click)="switchLanguage('pt-BR')">pt-BR</button>
+</div>
